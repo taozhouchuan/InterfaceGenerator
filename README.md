@@ -1,0 +1,2 @@
+# InterfaceGenerator
+interface auto generator
